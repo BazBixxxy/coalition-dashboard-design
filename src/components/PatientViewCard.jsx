@@ -5,7 +5,7 @@ import { FiPhone } from "react-icons/fi";
 import { LuShieldCheck } from "react-icons/lu";
 
 const PatientViewCard = ({ data }) => {
-  // ! used chatGPT to me configure the date
+  // ! I used chatGPT to me configure the date
   const dateString = data[0]?.date_of_birth;
 
   if (dateString) {
