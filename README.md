@@ -1,0 +1,2 @@
+- The project has been created using React with vite
+- For styling I've initialised tailwind-css
